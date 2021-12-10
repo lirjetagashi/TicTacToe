@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="score_label">Score</string>
+    <string name="player1_label">Player One:</string>
+    <string name="player2_label">Player Two:</string>
+    <string name="new_game_label">New Game</string>
+    <string name="player_two_score">0</string>
+    <string name="player_one_score">0</string>
+    <string name="menu_label">Game Menu</string>
+    <string name="start_game_btn">Start Game</string>
+    <string name="view_scoreboard_btn">View Scoreboard</string>
+    <string name="select_player_label">Select Player %1$s</string>
+    <string name="select_player1_btn">Select Player 1</string>
+    <string name="select_player2_btn">Select Player 2</string>
+    <string name="add_player_btn">Add Player</string>
+    <string name="title_activity_add_player">AddPlayerActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_player_label">Player name: </string>
+    <string name="save_btn">Add Player</string>
+</resources>
